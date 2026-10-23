@@ -1,0 +1,347 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "Alarm" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "警报"
+          }
+        }
+      }
+    },
+    "Blink" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "闪烁"
+          }
+        }
+      }
+    },
+    "Bounce" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "弹跳"
+          }
+        }
+      }
+    },
+    "Corporate" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商务"
+          }
+        }
+      }
+    },
+    "Desk Sign" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工位指示牌"
+          }
+        }
+      }
+    },
+    "DO NOT DISTURB" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请勿打扰"
+          }
+        }
+      }
+    },
+    "E-ink" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "墨水屏"
+          }
+        }
+      }
+    },
+    "Flicker" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接触不良"
+          }
+        }
+      }
+    },
+    "From then on, whenever StandBy turns on, the sign is there. No need to open the app." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "之后每次进入待机显示，状态牌都会在那里，无需打开 App。"
+          }
+        }
+      }
+    },
+    "IN THE BATHROOM" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "去厕所了"
+          }
+        }
+      }
+    },
+    "Leave Status empty to show whatever the app's sign shows." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态留空则跟随 App 里当前的状态牌。"
+          }
+        }
+      }
+    },
+    "LED board" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LED 屏"
+          }
+        }
+      }
+    },
+    "Lock iPhone Duo and stand it in tent mode. StandBy turns on." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "锁定 iPhone Duo，立成帐篷模式，待机显示会自动打开。"
+          }
+        }
+      }
+    },
+    "Neon" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "霓虹"
+          }
+        }
+      }
+    },
+    "Next Desk Status" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一个桌面状态"
+          }
+        }
+      }
+    },
+    "OPEN FOR BUSINESS" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "营业中"
+          }
+        }
+      }
+    },
+    "PLEASE APPROVE THE REQUEST ON MY COMPUTER" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请帮我在电脑上点「允许」"
+          }
+        }
+      }
+    },
+    "PRETENDING TO WORK" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "假装在工作"
+          }
+        }
+      }
+    },
+    "Pulse" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "呼吸"
+          }
+        }
+      }
+    },
+    "Scroll" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滚动"
+          }
+        }
+      }
+    },
+    "Set it up once" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "只需设置一次"
+          }
+        }
+      }
+    },
+    "Shake" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "抖动"
+          }
+        }
+      }
+    },
+    "Shine" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "流光"
+          }
+        }
+      }
+    },
+    "Stand iPhone Duo in tent mode and StandBy shows your sign in LED letters. It follows the status you pick here; tap it to switch." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "把 iPhone Duo 立成帐篷模式，待机显示就会用 LED 点阵字显示你的状态牌。它跟随你在这里选的状态；轻点即可切换。"
+          }
+        }
+      }
+    },
+    "StandBy Widget" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "待机显示小组件"
+          }
+        }
+      }
+    },
+    "Status" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态"
+          }
+        }
+      }
+    },
+    "Still" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "静止"
+          }
+        }
+      }
+    },
+    "Swipe to the widgets view, then touch and hold a widget stack." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "滑到小组件页面，然后按住一个小组件叠放。"
+          }
+        }
+      }
+    },
+    "Tap + and choose Desk Sign. Pick a size and add it." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轻点 +，选择「工位指示牌」，挑一个尺寸并添加。"
+          }
+        }
+      }
+    },
+    "Turn off Smart Rotate for that stack (or remove the other widgets) so the sign stays on screen." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "为这个叠放关闭「智能轮换」（或移除其他小组件），状态牌就会一直显示。"
+          }
+        }
+      }
+    },
+    "Typewriter" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打字机"
+          }
+        }
+      }
+    },
+    "WORKING" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工作中"
+          }
+        }
+      }
+    },
+    "Your desk status in big LED letters. Add it to StandBy and it's on show whenever iPhone Duo stands in tent mode. Tap it to switch status." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用大号 LED 点阵字显示你的桌面状态。把它加到待机显示中，iPhone Duo 一立成帐篷模式就会显示。轻点可切换状态。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
