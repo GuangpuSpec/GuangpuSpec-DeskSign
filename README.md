@@ -24,7 +24,7 @@
 </p>
 
 > 这是光谱Spec 为 iPhone Duo 做的三个「最没用、但非常适合 iPhone Duo」的 App 之一，另外两个是
-> [广东模拟器](https://github.com/__OWNER__/GuangpuSpec-FoldSmash) 和 [摸鱼浏览器](https://github.com/__OWNER__/GuangpuSpec-DecoyScreen)。
+> [广东模拟器](https://github.com/Xenogeneic112/GuangpuSpec-FoldSmash) 和 [摸鱼浏览器](https://github.com/Xenogeneic112/GuangpuSpec-DecoyScreen)。
 
 ## 怎么用
 
@@ -75,7 +75,7 @@ Apple 规定帐篷模式下 App 的主界面显示在外屏上，所以：
 ## 开始使用
 
 ```bash
-git clone https://github.com/__OWNER__/GuangpuSpec-DeskSign.git
+git clone https://github.com/Xenogeneic112/GuangpuSpec-DeskSign.git
 cd GuangpuSpec-DeskSign
 open DeskSign.xcodeproj
 ```
